@@ -72,10 +72,10 @@ Tap anywhere while reading to show/hide the bars. The top bar has the chapter ti
 ### Paged mode tap zones
 ```
 ┌──────────┬──────────┬──────────┐
-│          │          │          │
-│  ← prev  │  toggle  │  next →  │
-│   35%    │  bars    │   35%    │
-│          │   30%    │          │
+│            │            │            │
+│  ← prev   │  toggle    │  next →    │
+│   35%      │  bars      │   35%      │
+│            │   30%      │            │
 └──────────┴──────────┴──────────┘
 ```
 
