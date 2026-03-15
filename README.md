@@ -33,7 +33,7 @@ A manga reader for your terminal. Search MangaBuddy from a curses TUI, then read
 ```bash
 git clone https://github.com/Pal-droid/komi-cli
 cd komi-cli
-pip install -r requirements.txt --break-system-packages
+pip install rich
 python main.py
 ```
 
