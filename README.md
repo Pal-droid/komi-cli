@@ -13,9 +13,39 @@ A manga reader for your terminal. Search MangaBuddy from a curses TUI, then read
 
 ---
 
-## Reader
+## Screenshots
 
-![Reader Preview](https://raw.githubusercontent.com/Pal-droid/komi-cli/refs/heads/main/images/prev_reader.jpg)
+<details>
+<summary>Reader</summary>
+<br>
+
+![Reader](https://raw.githubusercontent.com/Pal-droid/komi-cli/refs/heads/main/images/prev_reader.jpg)
+
+</details>
+
+<details>
+<summary>Chapter List</summary>
+<br>
+
+![Chapter List](https://raw.githubusercontent.com/Pal-droid/komi-cli/refs/heads/main/images/prev_chap_list.jpg)
+
+</details>
+
+<details>
+<summary>Settings</summary>
+<br>
+
+![Settings](https://raw.githubusercontent.com/Pal-droid/komi-cli/refs/heads/main/images/prev_settings.jpg)
+
+</details>
+
+<details>
+<summary>Dual Mode</summary>
+<br>
+
+![Dual Mode](https://raw.githubusercontent.com/Pal-droid/komi-cli/refs/heads/main/images/prev_dual.jpg)
+
+</details>
 
 ---
 
